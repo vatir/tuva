@@ -1,0 +1,8 @@
+openopt==0.5628
+scipy==1.1.0
+numpy==1.15.1
+matplotlib==2.2.3
+FuncDesigner==0.5627
+psutil==5.4.7
+psycopg2==2.7.5
+wxPython==2.8.12.0
